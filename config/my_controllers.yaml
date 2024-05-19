@@ -22,3 +22,6 @@ diff_cont:
     wheel_radius: 0.05
 
     use_stamped_vel: false
+    #odometry_frame_id: odom
+    #odometry_topic: odom
+    #command_topic: cmd_vel
